@@ -1,0 +1,20 @@
+body{
+    padding-right: 390px;
+    padding-left: 350px;
+}
+.copy{
+    font-size: 12px;
+}
+img{
+    height: 250px;
+    width: 320px;
+}
+.line{
+    background-color: black;
+    height: 3px;
+}
+.img2{
+    height: 370px;
+    width: 535px;
+}
+
